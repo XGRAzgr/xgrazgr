@@ -9,3 +9,4 @@
 - 👯 I’m not looking on collaborating on any repository yet.
 - 🤔 I’m looking for help with simple JavaScript programs (like clocks, chatbots, and quizes)
 - ⚡ Fun fact: I like eating lemons.
+- 😄 Pronouns: He/him
