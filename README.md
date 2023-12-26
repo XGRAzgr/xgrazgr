@@ -7,6 +7,6 @@
 - 🔭 I'm currently working on making and expand my website (https://xgrazgr.github.io/)
 - 🌱 I'm currently learning JavaScript, HTML and CSS.
 - 👯 I’m not looking on collaborating on any repository yet.
-- 🤔 I’m looking for help with simple JavaScript programs (like clocks, chatbots, and quizes)
+- 🤔 I’m looking for help with simple JavaScript programs (like clocks, chatbots, and quizzes)
 - ⚡ Fun fact: I like eating lemons.
 - 😄 Pronouns: He/him
